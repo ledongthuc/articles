@@ -2,6 +2,7 @@
 
 ## Fundamental
 1. [Effective GO language](https://golang.org/doc/effective_go.html "Effective GO language")
+2. [Code review with GO]https://github.com/golang/go/wiki/CodeReviewComments
 
 ## Interface
 1. [Interface, you're not using enough](http://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/ "Interface, you're not using enough")
