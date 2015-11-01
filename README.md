@@ -3,6 +3,7 @@
 ## Fundamental
 1. [Effective GO language](https://golang.org/doc/effective_go.html "Effective GO language")
 2. [Code review with GO](https://github.com/golang/go/wiki/CodeReviewComments "Code review with GO")
+3. [50 tips, traps, mistake in Goers](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ "50 tips, traps, mistake in Goers")
 
 ## Interface
 1. [Interface, you're not using enough](http://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/ "Interface, you're not using enough")
