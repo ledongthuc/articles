@@ -7,6 +7,7 @@
 4. [Interface, you're not using enough](http://nathanleclaire.com/blog/2015/03/09/youre-not-using-this-enough-part-one-go-interfaces/ "Interface, you're not using enough")
 5. [Understanding GO language memory usage](https://deferpanic.com/blog/understanding-golang-memory-usage/ "Understanding GO language memory usage")
 6. [10 things you don't know about Go](https://talks.golang.org/2012/10things.slide "10 things you don't know about Go")
+7. [10 Useful techniques in GO](http://arslan.io/ten-useful-techniques-in-go "10 Useful techniques in GO")
 
 ## Web Tech
 1. [Untangling Microservices](https://blog.gopheracademy.com/advent-2015/goaUntanglingMicroservices/ "Untangling Microservices")
