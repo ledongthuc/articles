@@ -24,3 +24,23 @@ func main() {
 }
 ```
 
+### 2. Which line of code will through error, and why?
+```
+package main
+
+import "fmt"
+
+type Dog struct {
+	Age int
+}
+
+func (d *Dog) Growl() {
+	fmt.Println("Bow wow	")
+}
+
+func main() {
+	var realDog *Dog = nil
+	realDog.Growl()
+	realDog.Age = 10
+}
+```
