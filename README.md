@@ -15,6 +15,7 @@
 3. [10 Useful techniques in GO](http://arslan.io/ten-useful-techniques-in-go "10 Useful techniques in Go")
 4. [Twelve Go Best Practices](https://talks.golang.org/2013/bestpractices.slide "Twelve Go Best Practices")
 5. [7 Common mistakes in Go](spf13.com/presentation/7-biggest-mistakes-in-go/ "7 Common mistakes in Go")
+6. [Golang synxtax suggars and exceptions](http://www.tapirgames.com/blog/golang-syntax-sugars-and-exceptions "Golang synxtax suggars and exceptions")
 
 ## Concurrency
 1. [Google I/O 2012 - Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs "Google I/O 2012 - Go Concurrency Patterns")
