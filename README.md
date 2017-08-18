@@ -8,7 +8,11 @@
 8. [Go's Declaration syntax](https://blog.golang.org/gos-declaration-syntax "Go's Declaration syntax")
 9. [How to write GO code](https://golang.org/doc/code.html "How to write Go code")
 10. [Is Go an Object Oriented language?](http://spf13.com/post/is-go-object-oriented/ "Is Go an Object Oriented language?")
-11. [Golang memory management](http://www.tapirgames.com/blog/golang-memory-management "Golang memory management")
+
+## Memory management
+1. [Golang memory management](http://www.tapirgames.com/blog/golang-memory-management "Golang memory management")
+2. [Golang real time gc](https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/ "Golang real time gc")
+
 
 ## Tips & Trick
 1. [50 tips, traps, mistake in Goers](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/ "50 tips, traps, mistake in Goers")
