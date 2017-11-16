@@ -35,3 +35,9 @@
 
 ## Unsorted
 1. [Golang UK conference 2015](https://www.youtube.com/watch?v=CdhucJShJU8&list=PLDWZ5uzn69ezRJYeWxYNRMYebvf8DerHd&index=1 "Golang UK conference 2015")
+
+## Library
+### GraphQL
+1. [graphql-go](https://github.com/graphql-go/graphql "graphql-go")
+2. [graphql-relay-go](https://github.com/graphql-go/relay "graphql-relay-go")
+3. [neelance/graphql-go](https://github.com/neelance/graphql-go "neelance/graphql-go")
